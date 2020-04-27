@@ -1,0 +1,54 @@
+.contactPage {
+    background-color: #f5f5f5;
+}
+.contactPage h2{
+    font-family:Arial Black;
+}
+div.feature h3{
+    float: right;
+    margin-right: 30px; 
+}
+div.feature {
+    width: auto;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+div.features {
+    margin-left: 20%;
+    width: 70%;
+    margin-top: 5.5%;
+}
+header h2 {
+    margin-top: 30px;
+    margin-left: 50px; 
+    float: left;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: -5%;
+    padding-left: 10px;
+}
+div.feature i {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div.feature a:hover {
+    font-size: 130%;
+    text-decoration: underline;
+}
+div.feature a h3 {
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    font-family: 'Open Sans', sans-serif;
+}
+#info {
+    float: left;
+    padding: 70px 70px 70px 15%;
+    font-size: 20px;
+}
+#map{
+    padding-bottom: 20px;
+}
+

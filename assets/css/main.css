@@ -1,0 +1,87 @@
+@import url(font-awesome.min.css);
+@import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
+
+body {
+	background-color: #fff;
+}
+
+.logo {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h2 {
+	font-weight: 300;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	text-transform: uppercase;
+	font-size: 1.6em;
+	color: #555;
+}
+
+h3 {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	color: #555;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	color: #00cdcf;
+}
+
+section.special {
+	text-align: center;
+}
+
+h2 {
+	display: inline-block;
+	padding-bottom: 0.4em;
+	border-bottom-style: double;
+	border-bottom-width: 4px;
+}
+
+header.major {
+	margin-bottom: 4em;
+}
+
+h2 {
+	border-bottom-color: #e3e3e3;
+}
+
+.features {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 2em;
+}
+
+.feature {
+	padding: 2em 0.1em 0.1em 0.1em;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e3e3e3;
+	margin-left: -1px;
+	margin-top: -1px;
+	width: 20%;
+}
+
+.feature .fa {
+	font-size: 2.8em;
+	margin-bottom: 0.7em;
+	color: #00cdcf;
+}
+a.main:hover{
+	font-size: 130%;
+}
